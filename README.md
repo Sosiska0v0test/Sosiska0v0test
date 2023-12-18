@@ -17,21 +17,19 @@ I am a novice web developer.<img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ## 🧸 Hobbies
-<p align="center">
   - Solve programming tasks in Codeforces, website and application development👾🧩<br>
   - Watch TV shows🎥<br>
   - Listen to music🎧<br>
   - etc...
-</p>
+
 
 ## 📚 Learning
-<p align="center">
-  - React.js<br>
-  - Vite.js<br>
-  - Vue.js<br>
-  - Node.js<br>
-  - TypeScript<br>
-</p>
+  - React.js
+  - Vite.js
+  - Vue.js
+  - Node.js
+  - TypeScript
+
     
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
