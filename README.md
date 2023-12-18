@@ -17,19 +17,21 @@ I am a novice web developer.<img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ## 🧸 Hobbies
-- Solve programming tasks in Codeforces, website and application development👾🧩
-- Watch TV shows🎥
-- Listen to music🎧
-- etc...
-  
-  ## 📚 Learning
-- React.js
-- Vite.js
-- Node.js
-- TypeScript
-  </div>
-  <hr>
-    </div>
+<p align="center">
+  - Solve programming tasks in Codeforces, website and application development👾🧩
+  - Watch TV shows🎥
+  - Listen to music🎧
+  - etc...
+</p>
+
+## 📚 Learning
+<p align="center">
+  - React.js
+  - Vite.js
+  - Vue.js
+  - Node.js
+  - TypeScript
+</p>
     
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
@@ -39,14 +41,23 @@ I am a novice web developer.<img src="https://media.giphy.com/media/WUlplcMpOCEm
   <code><img title="SASS" height="25" src="images/sass.svg"></code>
   <code><img title="Gulp" height="25" src="images/gulp.svg"></code>
   <code><img title="React" height="25" src="images/react-original.svg"></code>
+  <code><img title="Node.js" height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></code>
+  <code><img title="Firebase" height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg"/> </code>
   <code><img title="Redux" height="25" src="images/redux.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="mongodb" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code>
-  <code><a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height="25"/> </a></code>
+  <code><img title="Figma" height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" /></code>
 </p>
 <hr>
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
