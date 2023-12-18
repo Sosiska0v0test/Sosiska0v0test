@@ -12,7 +12,7 @@ I am a novice web developer.<img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: I develop my skills by myself. This is my hobby and ❤️🔥
 
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Sosiska0v0test) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:Likusik1312@ukr.net)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-Angelika-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Sosiska0v0test) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:Likusik1312@ukr.net)
 
 ---
 
