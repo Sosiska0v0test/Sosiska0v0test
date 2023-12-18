@@ -1,4 +1,4 @@
-# Hi, my name is Angelica!👋😃
+<h2 align="center"># Hi, my name is Angelica!👋😃</h2>
 
 ---
 
