@@ -20,6 +20,7 @@ I am a novice web developer.<img src="https://media.giphy.com/media/WUlplcMpOCEm
   - Solve programming tasks in Codeforces, website and application development👾🧩<br>
   - Watch TV shows🎥<br>
   - Listen to music🎧<br>
+  - Painting pictures🎨
   - etc...
 
 
