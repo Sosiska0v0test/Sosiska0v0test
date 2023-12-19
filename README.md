@@ -39,6 +39,8 @@ I am a novice web developer.<img src="https://media.giphy.com/media/WUlplcMpOCEm
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="SASS" height="25" src="images/sass.svg"></code>
   <code><img title="Gulp" height="25" src="images/gulp.svg"></code>
+  <code><img title="Vite" height="25" src="images/vite-svgrepo-com.svg"></code>
+  <code><img title="Vue" height="25" src="images/vue.png"></code>
   <code><img title="React" height="25" src="images/react-original.svg"></code>
   <code><img title="Node.js" height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></code>
   <code><img title="Firebase" height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg"/> </code>
