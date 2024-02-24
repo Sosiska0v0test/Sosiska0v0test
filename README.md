@@ -52,7 +52,6 @@ I am a novice web developer.<img src="https://media.giphy.com/media/WUlplcMpOCEm
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="mongodb" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
   <code><img title="Figma" height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" /></code>
 </p>
 <hr>
