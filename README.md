@@ -38,7 +38,6 @@ I am a novice web developer.<img src="https://media.giphy.com/media/WUlplcMpOCEm
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="Gulp" height="25" src="images/gulp.svg"></code>
   <code><img title="Vite" height="25" src="images/vite-svgrepo-com.svg"></code>
   <code><img title="Vue" height="25" src="images/vue.png"></code>
   <code><img title="React" height="25" src="images/react-original.svg"></code>
@@ -46,8 +45,6 @@ I am a novice web developer.<img src="https://media.giphy.com/media/WUlplcMpOCEm
   <code><img title="Firebase" height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg"/> </code>
   <code><img title="Redux" height="25" src="images/redux.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="mongodb" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
